@@ -12,6 +12,9 @@ lat=51.8971;lon=-8.4655
 # Dates
 dates=as.Date(as.Date("2024-12-21"):as.Date("2025-12-20"))
 
+# Get current date
+today <- as.Date(Sys.Date())
+
 # Sunlight data
 sunlight <- getSunlightTimes(lat=lat,lon=lon,date=dates) %>%
   mutate(dayLength = sunset-sunrise,
@@ -37,15 +40,20 @@ extra_day_length <- sunlight %>%
   winter1 + spring + summer + autumn + winter2 +
   geom_line(linewidth=1.5) + 
   theme_bw() + 
-  date_scale
+  date_scale + 
+  geom_vline(xintercept=today,linewidth=1.3,colour="purple",linetype="dashed") + 
+  labs(y="Extra minutes\nper day") +
+  theme(axis.title.y=element_text(angle=0,vjust=0.5,hjust=1))
 
 day_length <- sunlight %>%
   ggplot(aes(x=date,y=dayLength)) + 
   winter1 + spring + summer + autumn + winter2 +
   geom_line(linewidth=1.5) + 
   theme_bw() + 
-  date_scale
+  date_scale + 
+  geom_vline(xintercept=today,linewidth=1.3,colour="purple",linetype="dashed") + 
+  labs(y="Daylight\nhours") +
+  theme(axis.title.y=element_text(angle=0,vjust=0.5,hjust=1))
 
-(extra_day_length + theme(axis.text.x=element_blank(),
-                          axis.title.x=element_blank(),
-                          axis.ticks.x=element_blank())) / day_length
+extra_day_length / day_length + plot_layout(axes="collect")
+  
