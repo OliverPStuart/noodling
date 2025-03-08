@@ -54,6 +54,6 @@ day_length <- sunlight %>%
   geom_vline(xintercept=today,linewidth=1.3,colour="purple",linetype="dashed") + 
   labs(y="Daylight\nhours") +
   theme(axis.title.y=element_text(angle=0,vjust=0.5,hjust=1))
-
+  
 extra_day_length / day_length + plot_layout(axes="collect")
   
