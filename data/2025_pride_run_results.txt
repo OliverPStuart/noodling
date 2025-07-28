@@ -1,0 +1,339 @@
+Athletes name	Club Location	Category	Gender	Bib	Seconds
+Arturo Pasos Suarez	Dublin Front Runners AC	Runners	Male	313	1000
+David Sheedy	Mallow	Runners	Male	342	1012
+Tadgh Moriarty	Ferrybank AC	Runners	Male	249	1079
+John O'Donovan	Cobh	Runners	Male	288	1092
+Andrea Aza Villamor	Ballincollig	Runners	Female	12	1111
+Aaron Kelly	Douglas	Runners	Male	171	1114
+David Fennell	Dublin Front Runners AC	Runners	Male	99	1119
+Kieran Killeen	Cork	Runners	Male	179	1142
+Eoghan Patrick O'Hara	FrontRunners Cork AC	Runners	Male	292	1151
+Niall Hyland	FrontRunners Cork AC	Runners	Male	154	1159
+Anne O'Donovan	Dublin	Runners	Female	286	1162
+Rob Timothy	St Finbarrs AC	Runners	Male	370	1169
+Willian Charles Belolli	Whitehall	Runners	Male	17	1194
+David McEvoy	Dublin	Runners	Male	228	1194
+John Kissane	St Finbarrs AC	Runners	Male	182	1204
+Tim O'Leary	FrontRunners Cork AC	Runners	Male	297	1212
+Stephen McKenna	Killarney	Runners	Male	233	1203
+Ciaran Murray	Togher AC	Runners	Male	262	1216
+Shane Guiry	Cork	Runners	Male	133	1208
+Stephen Sugrue	St Lukes	Runners	Male	360	1224
+Daniel Mahon	Cobh	Runners	Male	207	1237
+Dean Kinsella	FrontRunners Cork AC	Runners	Male	180	1243
+Giorgio Manganini	Cork	Runners	Male	564	1246
+Ray McCarthy	Ballinhassig	Runners	Male	223	1230
+Aaron Vickery	Dublin	Runners	Male	382	1254
+Emma Harrington	FrontRunners Cork AC	Runners	Female	139	1275
+Michael Hannon	FrontRunners Cork AC	Runners	Male	136	1272
+Rafael Bonatto	Cork	Runners	Male	23	1284
+Cristina Rosell Cardona	Cork	Runners	Female	331	1270
+Branko Milankovic	Carrigtwohill	Runners	Male	239	1297
+Aindreas Lucey	NewTwopothouse	Runners	Male	198	1298
+David McAuliffe	FrontRunners Cork AC	Runners	Male	216	1301
+Peter O'Brien	FrontRunners Cork AC	Runners	Male	279	1301
+Darren Curtis	FrontRunners Cork AC	Runners	Male	72	1288
+Lukas Radziunas	Rochestown	Runners	Male	324	1297
+Eoin Jefferies	FrontRunners Cork AC	Runners	Male	156	1329
+Sean O'Malley	FrontRunners Cork AC	Runners	Male	300	1315
+Eoin Martin	FrontRunners Cork AC	Runners	Male	210	1329
+Michael Naughton	Togher AC	Runners	Male	270	1333
+Barry Donnelly	FrontRunners Cork AC	Runners	Male	83	1343
+Eoghan Casey	Cork	Runners	Male	41	1352
+Jeronimo Gomes De Melo Sobrinho	Cork	Runners	Male	127	1326
+Tony Healy	Cork	Runners	Male	145	1337
+Gavin Somers	Wilton	Runners	Male	351	1384
+Laura Maye	FrontRunners Cork AC	Runners	Female	214	1397
+Richard Tierney	Cork	Runners	Male	369	1389
+Michael McCarthy	FrontRunners Cork AC	Runners	Male	221	1385
+Liam McLeod	FrontRunners Cork AC	Runners	Male	234	1398
+Mags Hassett	St Finbarrs AC	Runners	Female	140	1401
+Rory Kenneally	Shandon Street	Runners	Male	174	1383
+Emrah Dzhemilov	Enniskeane	Runners	Male	91	1415
+Dan Nuzum	Carrigaline	Runners	Male	276	1395
+Bryan Wrenn	Watergrasshill AC	Runners	Male	390	1403
+Jason Harte	Cork	Runners	Male	558	1397
+Stephen Bernard	Carrigtwohill	Runners	Male	19	1415
+Evan Gillogley	Dublin Front Runners AC	Runners	Male	123	1393
+Declan Molloy	FrontRunners Cork AC	Runners	Male	242	1430
+Ellen O'Brien	Cork	Runners	Female	278	1438
+Tomas Heneghan	East Wall	Runners	Male	147	1430
+Ronan McCluskey	Cork	Runners	Male	225	1448
+Dean Breslin	Cork	Runners	Male	29	1403
+Jesus Garcia Blanco	Carrigtwohill	Runners	Male	116	1446
+Fiona Kinsella	Enniscorthy	Runners	Female	181	1442
+Gaston Cluzel	Cork	Runners	Male	48	1444
+Adam Kovacs	FrontRunners Cork AC	Runners	Male	185	1459
+Oliwia Zawadzinska	Cork	Runners	Female	394	1475
+Conor Buckley	FrontRunners Cork AC	Runners	Male	33	1446
+Brian Kelly	Dublin Front Runners AC	Runners	Male	173	1434
+Peter Shaw	FrontRunners Cork AC	Runners	Male	341	1467
+Antony Thomas	Ballincollig AC	Runners	Male	368	1471
+Kiera Falvey	Glanmire	Runners	Female	98	1484
+Graham Redmond	FrontRunners Cork AC	Runners	Male	325	1472
+Emanuel Eduardo Ferreira	Cork	Runners	Male	92	1485
+Keith Lordan	Cork	Runners	Male	196	1485
+James Conachy	Carrick Aces AC	Runners	Male	54	1479
+Patrick Guinane	Cork	Runners	Male	131	1476
+Robbie Nugent	Carrick On Suir	Runners	Male	274	1484
+Paulo Vinicius Ayres Pesqueira	Cork	Runners	Male	11	1492
+Ciaran O'Sullivan	FrontRunners Cork AC	Runners	Male	306	1490
+Andrew England	Conna	Runners	Male	94	1492
+Oliver Stuart	FrontRunners Cork AC	Runners	Male	358	1451
+Cliona Wrenne	Crosshaven	Runners	Female	391	1495
+Joanna O'Sullivan	The Lough	Runners	Female	309	1494
+Evan O'Donovan	Cork	Runners	Male	566	1492
+Ross Gallagher	Dunmanway	Runners	Male	113	1519
+Paul Penney	St Finbarrs AC	Runners	Male	318	1520
+Alex Neff	Leevale AC	Runners	Male	271	1483
+Hector Garcia	Dublin Front Runners AC	Runners	Male	115	1486
+Paula Magalhaes	Cork	Runners	Female	206	1491
+Lori Schiesl	Goleen	Runners	Female	339	1502
+Lauren Buckley	Crookstown	Runners	Female	34	1504
+Jp Benicio	Cork	Runners	Male	18	1530
+Ruan Nascimento	The Glen	Runners	Male	268	1533
+Denis O'Brien	Cork	Runners	Male	277	1536
+Adam Kelly	Dillons Cross	Runners	Male	172	1509
+Maeve O'Leary	Eagle AC	Runners	Female	296	1539
+Jay O'Shea	Knockaderry	Runners	Non-Binary	305	1517
+Andrew Sommers	Cork	Runners	Male	353	1570
+Hazel Valino	The Lough	Runners	Female	380	1583
+Lucas Pedrosa	Fairhill	Runners	Male	316	1578
+Padraig Muldoon	FrontRunners Cork AC	Runners	Male	250	1585
+Conor Coffey	Dublin Front Runners AC	Runners	Male	49	1582
+Peter McCarthy	Dublin	Runners	Male	222	1587
+Tomas Sarapas	Cork	Runners	Male	568	1614
+Michael Murphy Keogh	FrontRunners Cork AC	Runners	Male	259	1602
+Tony Zheng	Cork	Runners	Male	398	1559
+Vincent Florish	FrontRunners Cork AC	Runners	Male	106	1611
+Isobel McAuliffe	Tullamore	Runners	Female	217	1597
+Nina O'Regan	Cork	Runners	Female	301	1624
+Donovan Fullam	Cork	Runners	Male	111	1650
+Clodagh Deasy	Carrigaline	Runners	Female	77	1643
+Niamh Curran	Kinsale	Runners	Female	71	1627
+Enda Kilgarrif	Cork	Runners	Male	560	1627
+Brid McConnell Cremin	Aghada Running Club AC	Runners	Female	226	1665
+Amy Tuohy	The Lough	Runners	Female	375	1651
+Charlie Naughton	Ballygarvan	Runners	Male	269	1622
+Niall O'Sullivan	Cork	Runners	Male	310	1646
+Carla McKeagney	Bishopstown	Runners	Female	232	1676
+Franklyn Cavanagh-Costa	FrontRunners Cork AC	Runners	Male	43	1658
+Aisling Harrington	FrontRunners Cork AC	Runners	Female	138	1663
+Mark Viana	Cork	Runners	Male	381	1703
+Jerrieann Sullivan	FrontRunners Cork AC	Runners	Female	361	1665
+Catherine Roxas	Cork	Runners	Female	332	1703
+Anton Karpushinskii	Cork	Runners	Male	161	1655
+Michelle Fitzgerald	Cork	Runners	Female	103	1670
+Marc Byrne	Cork	Runners	Male	37	1669
+Lan Xu	Glasheen	Runners	Female	393	1696
+Annie Duffy	Ballinlough	Runners	Female	88	1696
+Evan Murphy Keogh	FrontRunners Cork AC	Runners	Male	258	1705
+Conor Arkins	Douglas	Runners	Male	9	1695
+Laura Moreno	Cork	Runners	Female	247	1680
+Sean Michael Collins	Cork	Runners	Male	552	1672
+Aidan Murray	Carrigaline	Runners	Male	261	1678
+Michael Nunes	Cork	Runners	Male	275	1685
+Jordan Somers	Cork	Runners	Male	352	1710
+Daniel Galvin	Harbour Heights	Runners	Male	114	1707
+Jennifer Healy	Cork	Runners	Female	143	1719
+Jason Guing	Dublin Front Runners AC	Runners	Male	132	2568
+Carolina Ferreira	Dooradoyle	Runners	Female	100	2637
+Juliana Gomes	Carrigtwohill	Runners	Female	126	1707
+Gary Kearney	Carrigtwohill	Runners	Male	164	1706
+Kieran McNamara	Cork	Runners	Male	236	1718
+Philip Baker	FrontRunners Cork AC	Runners	Male	13	1695
+Akash Suresh	FrontRunners Cork AC	Runners	Male	362	1694
+Glenn Gall	Limerick	Runners	Male	112	1710
+Sean Hales	Midleton	Runners	Male	134	1750
+Fabio Soriano	Greenmount	Runners	Male	354	1724
+Eileen O'Shea	Cork	Runners	Female	304	1733
+Emer Lynch	An Riocht AC	Runners	Female	202	1732
+Emily Brannigan	Midleton	Runners	Female	24	1758
+Odhlan Duff	The Lough	Runners	Male	87	1748
+Jessica Kwong	Mount Oval	Runners	Female	187	1761
+John McCarthy	Mount Oval	Runners	Male	218	1762
+Caoimhe Coleman	Magazine Road	Runners	Female	50	1756
+Nikhil Kolloju	Dublin Front Runners AC	Runners	Male	183	1779
+John Maher	Cork	Runners	Male	563	1752
+Ellen Rocha	Blackrock	Runners	Female	329	1786
+James Collins	Passage West	Runners	Male	51	1730
+Sean Murphy Phelan	FrontRunners Cork AC	Runners	Male	260	1764
+Tatiane Rabelo	Cork	Runners	Female	323	1759
+Padraic Toomey	Cork	Runners	Male	569	1754
+Alexandra Petersen	Cork	Runners	Non-Binary	321	1773
+Kevin Murray	FrontRunners Cork AC	Runners	Male	264	1771
+Eoin Roddis	Cork	Runners	Male	330	1786
+Sandra Smierciak	Cork	Runners	Female	350	1769
+Margaret Hennessy	Ballineen	Runners	Female	148	1791
+Jo Lynch	Bandon	Runners	Female	203	1791
+Lucia Sanchez	Cork	Runners	Female	336	1799
+Maria Caballero	Cork	Runners	Female	39	1799
+Aoife Lyons	Farrenbrien	Runners	Female	204	1784
+Saoirse Maloney	Tralee	Runners	Female	208	1776
+Regiane Crivelaro	Cork	Runners	Female	63	1777
+Caitriona McElligott	Cork	Runners	Female	227	1830
+Scott Cravey	Cork	Runners	Male	62	1788
+Ian Wykes	Cork	Runners	Male	392	1808
+Claire Cronin	Cork	Runners	Female	64	1833
+Jona Zecevic	Ballincollig	Runners	Female	395	1837
+Jack Connor	Bartlemy	Runners	Male	56	1837
+Alana Santos	Blackpool	Runners	Female	337	1841
+Schirlene Silva Viscardi	Cork	Runners	Female	347	1842
+Dayane Keres	Sundays Well	Runners	Female	177	1848
+Ana Pereira	Cork	Runners	Female	320	1854
+Sinead Murphy	Cork	Runners	Female	257	1811
+Adam Barrett	Glasheen	Runners	Male	14	1810
+Cathriona Reen	Cork	Runners	Female	326	1810
+Mayara Vieira	Dublin	Runners	Female	383	1810
+Liadh Murphy	Passage West	Runners	Female	256	1843
+Ellie Sweeney	Kinsale	Runners	Female	363	1842
+Martyna Stasiewicz	Cork	Runners	Female	356	1874
+John Browne	Limerick	Runners	Male	32	1848
+Craig O'Sullivan	Ballynoe	Runners	Male	307	1867
+Julien Treguer-Rivet	Cork	Runners	Male	371	1876
+Clare Leonard	Glanmire	Runners	Female	190	1888
+Amanda Dorgan	Glanmire	Runners	Female	86	1888
+Adrijana Kovacevic	FrontRunners Cork AC	Runners	Female	184	1850
+Lisa Collins	Ballincollig AC	Runners	Female	53	1840
+Alan Montague	Cobh	Runners	Male	243	1849
+Nathan Gray	Cork	Runners	Male	130	1849
+Sarah Blanc	Cork	Runners	Female	21	1850
+Lea Clemenceau	Cork	Runners	Female	47	1885
+Olive Conway	Rochestown	Runners	Female	57	1898
+Pedro Araujo	Dublin	Runners	Male	8	1857
+Erica Bitencourt	Cork	Runners	Female	20	1856
+Emily Kraemer	Cork	Runners	Female	186	1889
+Eva Peeters	Estonia	Runners	Female	317	1895
+Una Lyons	Minane Bridge	Runners	Female	205	1885
+Aoife Daly	Ballyhooly	Runners	Female	74	1901
+Maggy Thiru	Glounthaune	Runners	Female	367	1902
+Emma Sadleir	Ballinlough	Runners	Female	335	1908
+Chloe Pech	St Lukes	Runners	Female	315	1917
+Leonor Honorio	Cork	Runners	Female	151	1900
+Jacob Turner-Dore	Cork	Runners	Male	376	1913
+Philip McGuire	Lee Road	Runners	Male	230	1918
+Caolan Abrahams	FrontRunners Cork AC	Runners	Male	1	1920
+Micheal Sheehan	Montenotte	Runners	Male	344	1927
+Samantha Cortijo	Cork	Runners	Female	58	1919
+Vitor Signorini	Rathfarnham	Runners	Male	346	1903
+Carolina Tamanini	Rathfarnham	Runners	Female	365	1902
+Laura Harmon	Wilton	Runners	Female	137	1941
+Donna Noonan	Blackpool	Runners	Female	273	1960
+Laise Trindade Paes	Cork	Runners	Female	372	1946
+Anna Lopes	Cork	Runners	Female	195	1948
+Maria O'Flaherty	Cork	Runners	Female	290	1978
+Zuzana Spanik	Cork	Runners	Female	355	1971
+Hubert Crowe	Tipperary	Runners	Male	66	1994
+Margaret McCarthy	Midleton AC	Runners	Female	220	1995
+Deirdre Cullinan	Midleton AC	Runners	Female	69	1995
+Caroline Cashman	Midleton AC	Runners	Female	42	1995
+Baptiste Choupeaux	Greenmount	Runners	Male	46	1938
+Eileen Ring	Carrigaline	Runners	Female	328	1985
+Niamh Lee	Cork	Runners	Female	189	1970
+Kieran Murphy	Cork	Runners	Male	255	1970
+Niamh Murray M	Cork	Runners	Female	266	1972
+Mary White	Cork	Runners	Female	389	2017
+Nathan Kelleher	FrontRunners Cork AC	Runners	Male	169	2016
+Jessica Laub	Cork	Runners	Female	188	2021
+Alf Smiddy	Cork	Runners	Male	349	2030
+Kathleen O'Donoghue	Ballintotis Fit4Life AC	Runners	Female	283	1996
+Niall Hayes	Dublin Front Runners AC	Runners	Male	142	2019
+Khalid Alwisi	Cork	Runners	Male	7	2030
+Cian O'Mahoney	Cork	Runners	Male	298	2046
+Matias Montel De La Roche	Cork	Runners	Male	244	2064
+Lily Ahern	Midleton	Runners	Female	3	2064
+Nathalie Graham	Mountneil	Runners	Female	129	2067
+Eglantine Julle-Daniere	FrontRunners Cork AC	Runners	Female	160	2082
+Sinead Kearney	FrontRunners Cork AC	Runners	Female	165	2082
+Deirbhile Lynch	FrontRunners Cork AC	Runners	Female	201	2082
+Caroline Delpupo	Cork	Runners	Female	78	2080
+Ger Leonardi	Ballynoe	Runners	Female	191	2067
+Helen Hayes	Ballymore Cobh AC	Runners	Female	141	2068
+Jane Howick	Ballymore Cobh AC	Runners	Female	152	2067
+Maeve McCarthy	Cork	Runners	Female	219	2090
+Blanca De Elejalde	Ballitemple	Runners	Female	75	2101
+Deirdre Filan	FrontRunners Cork AC	Runners	Female	101	2078
+Jamie Sheridan	Douglas	Runners	Female	345	2090
+John O'Hea	Douglas	Runners	Male	293	2113
+Vanessa Mullally	Douglas	Runners	Female	251	2114
+Cristina Llorca	Cork	Runners	Female	194	2137
+Jimmy Zhu	Cork	Runners	Male	399	2126
+Bernadette Ni Rioghbhardain	Rochestown	Runners	Female	272	2110
+Sinead Hurley	FrontRunners Cork AC	Runners	Female	153	2136
+Shauna Moore	Grange	Runners	Female	246	2136
+Erin O'Donovan	FrontRunners Cork AC	Runners	Female	287	2149
+Michael Kennedy	Ballinhassig	Runners	Male	175	2138
+Louise McHugh	Cork	Runners	Female	231	2138
+Naomi Gavioli	Cork	Runners	Female	118	2160
+Emma Johnson	Dunmanway	Runners	Female	157	2144
+Aoibheann Fleming	Dromsally	Runners	Female	104	2188
+Greice Fracarolli	Cork	Runners	Female	110	2229
+Ricardo Massa	Turners Cross	Runners	Male	213	2184
+Ciara Walsh	Ardmore	Runners	Female	384	2243
+Laura Walsh	Ardmore	Runners	Female	385	2245
+Carla Kidd Murphy	Dunloe	Runners	Female	178	3167
+Kim O'Leary	Gurranabraher	Walkers	Female	295	2268
+Adam Burke	Jacobs Island	Runners	Male	35	2291
+Kenji Khanh Gia Bao Hoang	Riverstick	Runners	Male	122	3268
+Sneha Mohanty	Ballybricken	Runners	Female	241	2361
+Andrea Crowley	Cork	Runners	Female	67	3281
+Orla Murray	Carrig Na Curra	Walkers	Female	265	3284
+Philiswa Mbandlwa	Fermoy	Runners	Female	215	2391
+Caoimhe-Rose Cowhig	Kilmacsimon	Runners	Female	60	2414
+Jessica Eivers	Cork	Walkers	Female	93	2435
+Clare Geraghty	FrontRunners Cork AC	Runners	Female	121	2395
+Katherine Collins	Ovens	Runners	Female	52	2425
+Marty Walsh	Cork	Runners	Male	386	2423
+Linda Healy	Knocknaheeny	Walkers	Female	144	3381
+Emma Jones	Cork	Runners	Female	158	2430
+Sarthak Jain	Cork	Runners	Male	155	2475
+Sarah Walsh	Lismore	Walkers	Female	387	2583
+Rebecca Sheedy	Greenmount	Runners	Female	343	2549
+Simone Schelling	Cork	Walkers	Female	338	2635
+Ciaran Synan	FrontRunners Cork AC	Walkers	Male	364	2602
+An Luu	Togher	Runners	Female	200	2636
+Julia Trzesicka	Cork	Walkers	Female	374	2769
+Eoghan Twomey	Kerrypike	Runners	Male	378	2770
+Louise McGrath	Cork	Walkers	Female	565	2777
+Joanna Patterson	Raheen	Walkers	Female	314	2778
+Ana-Muriel Martinez Silva	Cork	Runners	Female	211	2812
+Agustin Maschio	Cork	Runners	Male	212	2813
+Jennifer Melo	Dooradoyle	Runners	Female	237	2822
+Paula Almeida	Cork	Walkers	Female	5	2823
+John Whitcomb	Cork	Walkers	Male	388	2865
+Brian Dailey	FrontRunners Cork AC	Walkers	Male	73	2865
+Sally Donaldson	Carrigaline	Walkers	Female	82	2869
+Cathal McGrath	FrontRunners Cork AC	Walkers	Male	229	2858
+Jessica Doherty	Cork	Walkers	Female	81	2922
+Amy Twohig	The Lough	Runners	Female	377	2922
+Aoibhe Leahy	Cork	Runners	Female	561	3059
+Shauna Lynch	Cork	Runners	Female	562	3059
+Orla O'Regan	Passage West	Runners	Female	302	3019
+Helen Curtin	Cork	Runners	Female	553	3082
+Rebecca Gagnon	Cork	Runners	Female	555	3082
+Paula Barry	Cork	Runners	Female	551	3082
+Gokhan Dumlupinar	Cork	Walkers	Male	554	3085
+Paul Kearney	Cork	Walkers	Male	559	3085
+Mallory Ford	Cork	Walkers	Female	109	3126
+Sorsha Crowley	Carrigaline	Walkers	Non-Binary	68	3146
+Fiona Ryng	Dunloe	Runners	Female	334	3168
+Sharon O'Connell	Glanmire	Runners	Female	282	3168
+Roisin O'Connell	Glanmire	Runners	Female	281	3168
+James O'Donovan	Cork	Runners	Male	567	3182
+Abishmita GK	Cork	Runners	Female	556	3184
+Susan Garde	Cork	Walkers	Female	117	3173
+Angie Tawney	Cork	Walkers	Female	366	3173
+Garry Murray	Carrigaline	Walkers	Male	263	3186
+Jhonattan Montes De Oca	Shanakiel	Walkers	Male	245	3269
+Clodagh Graham	Cobh	Walkers	Female	128	3272
+Michael O'Donoghue	Shanakiel	Walkers	Male	284	3271
+Chloe Connolly	Waterford	Walkers	Female	55	3276
+Monique Mendonca	Ballyphehane	Runners	Female	238	3351
+Anushila Vaishali	Cork	Runners	Female	379	3351
+Ivan Keely	Cork	Walkers	Male	167	3487
+Ornaith Keane	West Waterford AC	Walkers	Female	163	3504
+Aoire Keane	Ardmore	Walkers	Female	162	3504
+Rachael Heath	Cork	Walkers	Female	146	3684
+Jen Doran	Cork	Walkers	Female	85	3686
+Maria Hennig	Carrigtwohill	Walkers	Female	149	3685
+Joann Kelleher	Turners Cross	Walkers	Non-Binary	168	3682

@@ -7,7 +7,7 @@ library(dplyr)
 library(patchwork)
 
 # Set location
-lat=51.8971;lon=-8.4655
+lat=51.8985;lon=-8.4756
 
 # Dates
 dates=as.Date(as.Date("2024-12-21"):as.Date("2025-12-20"))
