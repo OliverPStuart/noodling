@@ -3,14 +3,19 @@
 # Stolen from https://stackoverflow.com/questions/65334695/using-base-r-how-to-create-a-joy-plot-aka-ridgeline-plots-with-many-distri
 # Modified with ChatGPT
 
-new_ridgeline <- function(df){
+# This function takes three arguments
+#   var1 = numeric variable
+#   var2 = categorical variable
+#   scale = a scale parameter that changes the overlap between ridges
+
+new_ridgeline <- function(var1,var2,scale=4){
   
   # Split data into a list by Var2
-  dat <- split(df$Var1, df$Var2)
-  n_groups <- length(unique(df$Var2))
+  dat <- split(var1, var2)
+  n_groups <- length(unique(var2))
   
   # Higher values of scale_parameter increase the overlap between densities
-  scale_parameter <- 5
+  scale_parameter <- scale
   scale_factor <- 1 + ((scale_parameter*n_groups)/length(dat))
   
   densities <- Map(function(x, g, i) {
@@ -34,7 +39,7 @@ new_ridgeline <- function(df){
 }
 
 # Example data.frame
-example_groups <- 8
+example_groups <- 12
 means <- rnorm(example_groups,sd=1.5)
 
 df <- data.frame(
@@ -42,4 +47,4 @@ df <- data.frame(
   Var2 = rep(letters[1:example_groups], each = 100)
 )
 
-new_ridgeline(df)
+new_ridgeline(df$Var1,df$Var2,3)
